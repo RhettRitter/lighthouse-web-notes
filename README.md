@@ -1,3 +1,6 @@
 # Rhett Ritter's notes
-## summary
-This repository contains all of the notes taken by Rhett Ritter for the Lighthouse Labs Web Development bootcamp.
+## Summary
+This repository contains all of the notes taken by [Rhett Ritter](https://github.com/RhettRitter) for the [Lighthouse Labs Web Development bootcamp](https://www.lighthouselabs.ca/).
+### Table of Contents
+* Weeks 1
+    * Day 1
